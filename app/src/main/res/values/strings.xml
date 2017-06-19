@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MattCode</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_new">Create New</string>
+    <string name="action_open">Open</string>
+
+    <string name="codeViewDefault">MattCode \n</string>
+    <string name="codeInputDefault">MattCode</string>
+    <string name="buttonSubmitCodeText">Submit</string>
+
+    <string name="savehint">Enter filename</string>
+    <string name="savebutton">Save</string>
+    <string name="cancelbutton">Cancel</string>
+</resources>
